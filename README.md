@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klrs21
-- 👀 I’m interested in automation (bots, APIs), robotics (arduino, etc)
+- 👀 I’m interested in automation (bots, APIs), arduino, HCI, IoT
 - 🌱 I’m currently learning python and Javascript (Discord.js)
-- 💞️ I’m looking to collaborate on Discord bots
+- 💞️ I’m looking to collaborate on Discord bots, rainmeter widgets, IoT projects
 - 📫 How to reach me: currently unavailable to be contacted personally
 
 <!---
